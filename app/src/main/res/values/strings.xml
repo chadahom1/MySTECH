@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My STECH</string>
+    <string name="name_sriwattana">Sriwattana</string>
+    <string name="user">User :</string>
+    <string name="password">Password :</string>
+    <string name="new_register">New Register</string>
+    <string name="login">Login</string>
+    <string name="name">Name :</string>
+    <string name="surname">Surname :</string>
+    <string name="address">Address :</string>
+    <string name="save">Save</string>
+</resources>
